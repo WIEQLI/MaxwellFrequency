@@ -26,5 +26,6 @@ end
 
 include("Utils/getMaxwellFreqParamOT.jl")
 include("Utils/getOTMeshFromTxRx.jl")
+include("Utils/getEdgeIntegralOfMagneticDipole.jl")
 
 end
